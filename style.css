@@ -1,0 +1,69 @@
+body{
+    background-color: bisque;
+}
+
+.navbar-brand img{
+    width: 40px;
+}
+.dj-alok{
+    font-size: 25px;
+    color: white;
+}
+.box{
+    width: 33%;
+    height: 150px;
+}
+.profile{
+    background-color: aliceblue;
+}
+.pic img{
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+.name {
+    display: inline;
+    font-size:30px;
+    margin-left: 20px;
+}
+.players{
+   padding-left: 100px;
+    display: flex;
+}
+.kamal img{
+    width: 250px;
+}
+.jk{
+    color: darkgray;
+}
+.bhai{
+    color: blue;
+}
+.alok{
+    color:black;
+    padding-left: 20px;
+}
+.card-footer .magic{
+    width: 20px;
+}
+.drack{
+    margin-left: 10px;
+    font-size: 19px;
+}
+.captain{
+    background-color: rgba(245, 100, 100, 0.34);
+    color:rgba(234, 0, 0, 0.785);
+    margin-left: auto;
+    margin-top: 0%;
+    
+}
+.time{
+    width:40px;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    border: none;
+    background-color:white;
+}
